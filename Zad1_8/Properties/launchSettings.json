@@ -6,15 +6,15 @@
     },
     "Zad1_8 - input": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\Github\\OptymalizacjaKombinatoryczna\\Zad1_8\\input.txt"
+      "commandLineArgs": "./input.txt"
     },
     "Zad1_8 - input1": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\Github\\OptymalizacjaKombinatoryczna\\Zad1_8\\input1.txt"
+      "commandLineArgs": "./input1.txt"
     },
     "Zad1_8 - input2": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\Github\\OptymalizacjaKombinatoryczna\\Zad1_8\\input2.txt"
+      "commandLineArgs": "./input2.txt"
     }
   }
 }
