@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "input1 -m": {
+      "commandName": "Project",
+      "commandLineArgs": "input1.txt -m"
+    },
+    "input1": {
+      "commandName": "Project",
+      "commandLineArgs": "input1.txt"
+    },
+    "input2 -m": {
+      "commandName": "Project",
+      "commandLineArgs": "input2.txt -m"
+    },
+    "input2": {
+      "commandName": "Project",
+      "commandLineArgs": "input2.txt"
+    }
+  }
+}
