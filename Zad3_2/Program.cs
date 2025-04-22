@@ -29,6 +29,7 @@ internal class Program
 	}
 
 	// The memoized version of the recursive solution - improves performance by storing previously calculated results
+	// The indexes of the memo array are the start and end indices of the range for which the score was calculated, i.e. memo[2,10] = 50 means that for the range [2,10] the score was 50
 	private static long MaxScoreWithMemo(int[] arr, int start, int end, long[,] memo)
 	{
 		// Failsafe condition
